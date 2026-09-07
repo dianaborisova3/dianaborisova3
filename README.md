@@ -5,8 +5,8 @@
 
 <div align="center">
   
-  [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/diana_borisova3)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/79994501711)
+  [![Telegram](https://img.shields.io/badge/Telegram-FDF5E6?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/diana_borisova3)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-FDF5E6?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/79994501711)
   
 </div>
 
@@ -16,20 +16,20 @@
 ## Языки и инструменты
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge)
-![Postgres](https://img.shields.io/badge/Postgres-white?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
-![SeaBorn](https://img.shields.io/badge/SeaBorn-white?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/SciPy-white?style=for-the-badge&logo=scipy&logoColor=0050AE)
-![DataLens](https://img.shields.io/badge/DataLens-white?style=for-the-badge)
-![Redash](https://img.shields.io/badge/Redash-white?style=for-the-badge&logo=redash&logoColor=FF7964)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-white?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05033)
-![Excel](https://img.shields.io/badge/Excel-white?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
+![Python](https://img.shields.io/badge/Python-FDF5E6?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-FDF5E6?style=for-the-badge)
+![Postgres](https://img.shields.io/badge/Postgres-FDF5E6?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Pandas](https://img.shields.io/badge/Pandas-FDF5E6?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-FDF5E6?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FDF5E6?style=for-the-badge)
+![SeaBorn](https://img.shields.io/badge/SeaBorn-FDF5E6?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-FDF5E6?style=for-the-badge&logo=scipy&logoColor=0050AE)
+![DataLens](https://img.shields.io/badge/DataLens-FDF5E6?style=for-the-badge)
+![Redash](https://img.shields.io/badge/Redash-FDF5E6?style=for-the-badge&logo=redash&logoColor=FF7964)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-FDF5E6?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Git](https://img.shields.io/badge/Git-FDF5E6?style=for-the-badge&logo=git&logoColor=F05033)
+![Excel](https://img.shields.io/badge/Excel-FDF5E6?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-FDF5E6?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
 
 </div>
 
