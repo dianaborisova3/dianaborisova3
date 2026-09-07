@@ -4,7 +4,9 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="27" height="27" /></h3>
 
 ## ✨ Обо мне
-- Пришла в аналитику из ритейла и корпоративного обучения
+- Пришла в аналитику из ритейла и корпоративного обучения, где решения принимались на основе данных.
+- Инсайты в данных - мое вдохновение. 
+- Не останавливаюсь в развитии: изучаю документацию библиотек python, PostgreSQL, решаю задачки на LeetCode.
 - Как связаться со мной:
   [![Telegram](https://img.shields.io/badge/Telegram-FDF5E6?style=flat&logo=telegram&logoColor=2CA5E0)](https://t.me/diana_borisova3)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-FDF5E6?style=flat&logo=whatsapp&logoColor=25D366)](https://wa.me/79994501711)
@@ -31,8 +33,10 @@
 </div>
 
 ## 🗂️ Проекты
-
-
+|Название проекта|Описание проекта|Стек|
+|----------------|----------------|----|
+|__|__|__|
+|__|__|__|
 <!--
 **dianaborisova3/dianaborisova3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
