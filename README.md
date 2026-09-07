@@ -35,7 +35,7 @@
 ## 🗂️ Проекты
 |Название проекта|Описание проекта|Стек|
 |----------------|----------------|----|
-|__|__|__|
+|[Анализ результатов A/B-теста по внедрению новой механики оплаты](https://github.com/dianaborisova3/AB_test_analysis_automatization)|Для проверки одной из гипотез был проведен A/B-тест: в тестовой группе использовалась новая механика оплаты на сайте, в контрольной - базовая механика. Необходимо проанализировать результаты A/B-теста, оценить её влияние на ключевые бизнес-метрики (ARPU, CR в покупку, ARPPU) и принять обоснованное решение о целесообразности запуска новой механики на всех пользователей.|Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels), Jupyter Notebook|
 |__|__|__|
 <!--
 **dianaborisova3/dianaborisova3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
