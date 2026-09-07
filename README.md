@@ -1,5 +1,7 @@
-<h1 align="center">Привет, меня зовут Диана
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="32" height="32" />
+<h1 align="center">Привет, меня зовут Диана</a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="32" height="32" /></h1>
+<h3 align="center">Data analyst | Аналитик данных
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="27" height="27" /></h1>
 <!--
 **dianaborisova3/dianaborisova3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
